@@ -1,3 +1,12 @@
 {
-name: "shahidkarimi/test"
+    "name": "shahidkarimi/test",
+    "description": "Command line installer for Shahid Karimi test",
+    "keywords": ["Test", "Shahid"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shahid Karimi",
+            "email": "me@shahidkarimi.com"
+        }
+    ],
 }
